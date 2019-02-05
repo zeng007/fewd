@@ -1,0 +1,21 @@
+body {
+  margin: 0px;
+  text-align: center;
+}
+
+.flex {
+  display: flex;
+  justify-content: center;
+}
+
+.print {
+  display: inline-block;
+  padding: 0px 20px;
+  text-align: left;
+  font-family: monospace;
+  font-size: 20px;
+}
+
+.print:last-child {
+  border-left: 1px solid black;
+}

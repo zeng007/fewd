@@ -1,0 +1,119 @@
+body {
+  width: 100%;
+  margin: 0px auto;
+  font-family: 'Roboto', sans-serif;
+}
+
+
+.img_header{
+  background-image: url("images/header_bg.jpg");
+  width: 100%;
+  height: 400px;
+}
+.content {
+  padding: 20px;
+  margin: 10px;
+}
+.img_footer{
+  background-image: url("images/testimonial_bg.jpg");
+  width: 100%;
+  height: 300px;
+
+}
+
+.Aligner {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.button_one{
+  width:100px;
+  background-color: #ffee50;
+  margin-left: auto;
+  margin-right: auto;
+}
+.button_two{
+  width:100px;
+  background-color: #15214f;
+  margin-left: auto;
+  margin-right: auto;
+  padding:10px;
+}
+.text_white{
+  color: white;
+}
+.text_grey{
+  color:#545353;
+}
+.logo_one{
+  font-size: 25px;
+  font-weight: bold;
+  letter-spacing: 1px;
+  padding-left: 10%;
+  padding-top: 3%;
+}
+.logo_two{
+  font-size: 25px;
+  font-weight: bold;
+  letter-spacing: 1px;
+  color:#ffee50;
+}
+.content_footer {
+  background-color: #383737;
+  min-height: 100px;
+}
+.content_signup {
+  background-color: #ffee50;
+  min-height: 60px;;
+  padding-top: 20px
+}
+.benefits_bg{
+  background-color: #f7f5f3;
+}
+.benefits{
+  font-size: 28px;
+  padding-left: 10%;
+  padding-top: 5%;
+}
+.the_perfect{
+  font-size: 17px;
+  letter-spacing: 0.3px;
+  padding-left: 11%;
+  font-weight: 100;
+  line-height: 1.6;
+}
+.bullet_point{
+  font-size: 18px;
+  padding-left: 12%;
+  padding-bottom: 5%;
+  padding-top: 3%;
+  letter-spacing: 0.2px;
+  font-weight: 100;
+  line-height: 1.6;
+  margin: 0;
+}
+.amanda_quote{
+  padding-top: 8%;
+  font-style: italic;
+  line-height: 1.6;
+}
+.amanda_intuit{
+  font-size: 18px;
+  padding-top: 2%;
+}
+.fb_twitter{
+  background-color:#383737;
+  min-height: 50px;
+  padding-bottom: 5%;
+}
+.img_fb{
+  width:15px;
+  height:auto;
+}
+.img_twitter{
+  width:30px;
+  height: auto;
+}
+.intro_text{
+  font-size: 30;
+}

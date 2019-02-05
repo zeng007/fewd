@@ -1,0 +1,42 @@
+
+/* dont edit this CSS */
+
+header {
+  background-color: salmon;
+}
+footer {
+  width: 500px;
+  background-color: lightblue;
+}
+#primary {
+  height: 250px;
+}
+
+.content {
+  border: 1px solid black;
+  padding: 20px;
+  min-height: 100px;
+  margin: 10px;
+}
+.text {
+  background-color: khaki;
+}
+.imageHolder {
+  width: 100px;
+  background-color: lightgreen;
+}
+
+.flex {
+  display: flex;
+  flex-direction: row;
+}
+.flexEnd {
+  justify-content: flex-end;
+}
+
+.half {
+  width: 50%;
+}
+.fill {
+  flex: 1;
+}
