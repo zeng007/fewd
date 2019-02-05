@@ -1,0 +1,29 @@
+.center{
+     text-align: center;
+}
+
+.thick {
+  border: none;
+    height: 5px;
+    background-color: #333;
+
+}
+
+
+img {
+    float: right;
+    border: 1px solid black;
+}
+
+body{
+      margin-top: 100px;
+      margin-bottom: 100px;
+      margin-right: 150px;
+      margin-left: 80px;
+
+
+}
+.padding{
+  padding: 40px;
+
+}
